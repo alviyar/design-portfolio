@@ -266,7 +266,7 @@ export default function Home() {
             <div className="bg-sky-200 w-16 h-16 flex items-center justify-center rounded-md text-2xl font-bold">2</div>
             <div>
               <h3 className="text-xl font-medium">
-                Designer at <span className="font-bold">Designers CLub</span>
+                Designer at <span className="font-bold">Designers Club</span>
               </h3>
               <p className="text-gray-600">Designed posters for events, campaigns, and promotions</p>
               <p className="text-gray-500 text-sm">8, March 2025</p>
