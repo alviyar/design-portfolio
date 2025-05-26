@@ -244,7 +244,7 @@ export default function Home() {
           </svg>
         </div>
 
-        <p className="mt-16 mb-8 text-lg">Have been designing since my past 4 years</p>
+        <p className="mt-16 mb-8 text-lg">Have been designing since my past 2 years</p>
 
         <div className="grid gap-6">
           {/* Experience 1 */}
