@@ -254,10 +254,11 @@ export default function Home() {
             </div>
             <div>
               <h3 className="text-xl font-medium">
-                App developer at <span className="font-bold">Hackclub</span>
+                UI/UX Intern at <span className="font-bold">Rhinon Tech</span>
               </h3>
-              <p className="text-gray-600">Built a Flutter app with end-to-end UI/UX design implementation.</p>
-              <p className="text-gray-500 text-sm">20, January 2025</p>
+              <p className="text-gray-600">Created landing page and chatbot UI from scratch, incorporating CRM insights to boost user engagement and satisfaction.
+                Focused on clean, user-friendly design and seamless interaction flows..</p>
+              <p className="text-gray-500 text-sm">June 2025 - August 2025</p>
             </div>
           </div>
 
