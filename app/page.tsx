@@ -152,7 +152,7 @@ export default function Home() {
           </Link>
 
           {/* Project 2 */}
-          <Link legacyBehavior href="https://www.figma.com/design/zMBk1dXtRFtsnRVadvmYfK/TheTravelTree?m=auto&t=VAg1G1lShetbk0PR-1  "passHref>
+          <Link legacyBehavior href="https://www.figma.com/slides/W0MaQbfggmT6J8eIBcM5Qm/Untitled?node-id=2-36&t=kzijbkI7R5pfHKsc-1"passHref>
           <a target="_blank" rel="noopener noreferrer">
           <div className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
             <div className="bg-purple-100 aspect-square flex items-center justify-center p-6">
