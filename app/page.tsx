@@ -130,7 +130,7 @@ export default function Home() {
           <div className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
             <div className="bg-purple-100 aspect-square flex items-center justify-center p-6">
               <Image
-                src="/projects/ttt.png"
+                src="/aura.png"
                 alt="Online Fashion Store"
                 width={600}
                 height={800}
@@ -157,7 +157,7 @@ export default function Home() {
           <div className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
             <div className="bg-purple-100 aspect-square flex items-center justify-center p-6">
               <Image
-                src="/projects/ttt.png"
+                src="/ttt.png"
                 alt="Travel Booking Platform"
                 width={600}
                 height={800}
