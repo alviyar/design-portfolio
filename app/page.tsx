@@ -179,13 +179,13 @@ export default function Home() {
           </Link>
 
           {/* Project 3 */}
-          <Link legacyBehavior href="https://www.figma.com/design/Nzl3ZzKXsYElVuggAgNwMA/HACKCLUB?node-id=0-1&t=ofQaMN28SaZtM6N6-1  "passHref>
+          <Link legacyBehavior href="https://www.figma.com/deck/u6aCxQoLQaaoyN4cS7khKh  "passHref>
           <a target="_blank" rel="noopener noreferrer">
           <div className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
           <div className="bg-purple-100 aspect-square flex items-center justify-center p-6">
               <Image
-                src="/hc.png"
-                alt="Event Landing Page"
+                src="/rhino.png"
+                alt="Landing Page and ChatBot UI"
                 width={600}
                 height={800}
                 className="rounded-md transform group-hover:scale-105 transition-transform"
@@ -193,12 +193,12 @@ export default function Home() {
             </div>
             <div className="p-4">
               <div className="flex justify-between items-center mb-2">
-                <h3 className="text-xl font-medium">Event Landing Page</h3>
+                <h3 className="text-xl font-medium">B2B SaaS Landing Page Redesign and ChatBot UI</h3>
                 <span className="bg-sky-400 text-white px-3 py-1 rounded-full text-sm">UI Design</span>
               </div>
               <p className="text-gray-600 text-sm">
-              A clean and focused web page created to share event details and encourage sign-ups.
-              Designed with user-friendly navigation, clear information, and strong visual appeal.
+              Redesigned a conversion-focused B2B SaaS landing page emphasizing clarity, trust, and scalability. Designed an intuitive chatbot UI to enhance onboarding, automate support, 
+              and improve user engagement across platforms and flows.
               </p>
             </div>
           </div>
@@ -211,7 +211,7 @@ export default function Home() {
           <div className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
           <div className="bg-purple-100 aspect-square flex items-center justify-center p-6">
               <Image
-                src="/poetify.png"
+                src="/poet.png"
                 alt="Poetify: Discover & Share Poetry"
                 width={250}
                 height={350}
